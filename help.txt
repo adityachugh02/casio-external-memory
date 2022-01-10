@@ -1,0 +1,47 @@
+Commands:\n\n
+
+xy : 		Instruction, where x is column and y is row of calculator key\n
+a~t : 		Shortcut instruction sequences\n
+write : 	Enable writing of instructions to EEPROM memory\n
+read : 		Disable enable writing of instructions to EEPROM memory\n
+prog 1~5 : 	Memory address set to beginning of program 1~5\n
+clear 1~5 : 	Clears all 200 instructions of program 1~5\n
+list 1~5 : 	Lists all 200 instructions of program 1~5\n
+addr 0~999 : 	Memory address set to 0~999 (for uno & nano)\n
+
+On Casio FX-92B & FX-92+, the bottom-most row is matrixed differently, keys should hence be addressed as such :\n\n 
+
+'0' : 65\n
+',' : 64\n
+'x10^x' : 63\n
+'ANS/REP' : 62\n
+'EXE' : 61\n
+
+Shortcut instruction sequences for Casio FX-92+:\n\n
+
+a : avancer de\n
+b : tourner de\n
+c : s'orienter à\n
+d : aller à x,y\n\n
+
+e : stylo écrit\n
+f : stylo relevé\n
+g : mettre var à\n
+h : demander valeur\n\n
+
+i : commentaire\n
+j : afficher résultat\n
+k : style\n
+l : attendre\n\n
+
+m : répéter\n
+n : répéter jusqu'à\n
+o : si alors\n
+p : si alors sinon\n\n
+
+q : exécuter\n
+r : copier et insérer\n
+s : insérer ligne\n
+t : tout supprimer\n\
+
+
