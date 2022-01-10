@@ -1,0 +1,1 @@
+# casio-external-memory
