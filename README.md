@@ -72,13 +72,11 @@ t : tout supprimer
 
 ```
 ## Keyboard Matrix Layout
-<img src="https://user-images.githubusercontent.com/60618118/148846426-03d987a7-4d7a-4fbe-92f6-1d9f49573ca8.jpg" width="33%"> | <img src="https://user-images.githubusercontent.com/60618118/148846461-9cea8d04-2e72-436b-bf92-1d6ddaa8ca17.jpg" width="33%"> | <img src="https://user-images.githubusercontent.com/60618118/148846635-a3a908b2-60d7-4e95-8a05-c00d08f6e0af.jpg" width="33%">
-| --- | --- | --- |
+<img src="https://user-images.githubusercontent.com/60618118/148846426-03d987a7-4d7a-4fbe-92f6-1d9f49573ca8.jpg" width="33%"> <img src="https://user-images.githubusercontent.com/60618118/148846461-9cea8d04-2e72-436b-bf92-1d6ddaa8ca17.jpg" width="33%"> <img src="https://user-images.githubusercontent.com/60618118/148846635-a3a908b2-60d7-4e95-8a05-c00d08f6e0af.jpg" width="20%">
+
 
 
 ## Schematic
 
-| ![schematic](https://user-images.githubusercontent.com/60618118/148841993-c133e295-6a00-4389-a011-c1bb7adf9ca5.png) | ![4066](https://user-images.githubusercontent.com/60618118/148843127-4374f280-dd76-484b-a168-1225d1070dbc.gif) 
-
-| --- | --- |
+<img src="https://user-images.githubusercontent.com/60618118/148841993-c133e295-6a00-4389-a011-c1bb7adf9ca5.png" width="40%"> <img src="https://user-images.githubusercontent.com/60618118/148843127-4374f280-dd76-484b-a168-1225d1070dbc.gif" width="33%">
 
