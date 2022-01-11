@@ -8,7 +8,7 @@ Having recently discovered the 92+ and its algorithmic mode just after high scho
   
  ...The only disappointment was of course that the 92+ has no internal memory.
   
-So I thought it would be interesting to create an external, detachable memory module to be able to keep those long programs that become a heavy task to rewrite.
+So I thought it would be interesting to create an external, detachable memory module to be able to save those long programs that become a heavy task to rewrite.
   
 Although this module can be compatible with any calculator (or any device with a matrix keyboard), it was primarily designed for the Casio FX-92+.
   
@@ -21,6 +21,8 @@ At the bottom of the module, 5 buttons are used to select one of the 5 algorithm
 ## MATRIXIO
   
 I also wrote a program to load the algorithms into the arduino's EEPROM. The Instructions and key coordinates can be sent manually via the arduino IDE serial monitor, or automatically via a loader written in Python.
+
+After uploading MATRIXIO to the arduino, set the serial monitor line ending to "newline".
   
 `MATRIXIO v1.0 (c) Jan 2022 Aditya Chugh -type 'help'-`
 
