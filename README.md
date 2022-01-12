@@ -18,7 +18,7 @@ Although this module can be compatible with any calculator (or any device with a
   
 An Arduino microcontroller at the heart of the module drives the four integrated circuits (CD4066), which in turn simulate a key press on the calculator. A CD4066 IC consists of 4 bilateral electronic switches, a key on the calculator is "pressed" when the electronic switch corresponding to the column and the electronic switch corresponding to the row of the desired key are activated simultaneously.
 
-At the bottom of the module, 5 buttons are used to select one of the 5 algorithms stored in the EEPROM of the arduino. Each algorithm can contain 200 instructions/keystroke coordinates
+At the bottom of the module, 5 buttons are used to select one of the 5 algorithms stored in the EEPROM of the arduino. Each algorithm can contain 200 instructions/keystroke coordinates.
   
 ## MATRIXIO
   
