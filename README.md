@@ -11,6 +11,8 @@ Having recently discovered the 92+ and its algorithmic mode just after high scho
 So I thought it would be interesting to create an external, detachable memory module to be able to save those long programs that become a heavy task to rewrite.
   
 Although this module can be compatible with any calculator (or any device with a matrix keyboard), it was primarily designed for the Casio FX-92+.
+
+[![Youtube](https://img.youtube.com/vi/2eeQFywnhbU/0.jpg)](https://www.youtube.com/watch?v=2eeQFywnhbU)
   
 ## The Module
   
