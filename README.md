@@ -33,7 +33,7 @@ After uploading MATRIXIO to the arduino, set the serial monitor line ending to "
 xy : 		Instruction, where x is column and y is row of calculator key
 a~t : 		Shortcut instruction sequences
 write : 	Enable writing of instructions to EEPROM memory
-read : 		Disable enable writing of instructions to EEPROM memory
+read : 		Disable writing of instructions to EEPROM memory
 prog 1~5 : 	Memory address set to beginning of program 1~5
 clear 1~5 : 	Clears all 200 instructions of program 1~5
 list 1~5 : 	Lists all 200 instructions of program 1~5
